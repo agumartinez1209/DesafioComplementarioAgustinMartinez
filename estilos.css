@@ -10,7 +10,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
-article, h3, p{
+article, h2, h3, p{
     text-align: center;
 }
 
