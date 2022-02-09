@@ -1,0 +1,23 @@
+/* Estilos generales */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: linear-gradient(rgb(111, 255, 111), rgb(241, 241, 241));
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+article, h3, p{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
+
+.mt-n1 {
+    margin-top: 1rem !important;
+  }
